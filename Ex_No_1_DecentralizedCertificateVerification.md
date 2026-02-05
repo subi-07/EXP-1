@@ -39,5 +39,12 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
+# True:
+<img width="1918" height="935" alt="Screenshot 2026-02-05 092140" src="https://github.com/user-attachments/assets/d0bb365a-a16b-4c55-93ec-cd370442c50a" />
 
+# False:
+<img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/c300489f-f4b5-4583-a9c5-9318f15ced3d" />
+
+
+# Result:
+Thus, the program excuted successfully.
